@@ -1,0 +1,403 @@
+business_unit_id,location_name,department_name,respondents,dominant_ahca_wa,wa_matched_respondents
+26012,ASH Corner of Twelfth & Summit,Diagnostic Rad Amb 004,2,21,2
+26012,ASH PBP Lynn Haven,PBP Oncology 004,1,10,1
+26012,ASH Rehab Gulf Breeze,Rehab Administration 001,1,34,1
+26012,ASH Rehab Pensacola,Rehab Administration 001,1,34,1
+26012,Airport Medical Park,Diagnostic Radiology Airport,2,21,2
+26012,Bldg Properties Admin,Sterile Processing 001,1,34,1
+26012,Carmel Heights Building,Auxiliary,1,24,1
+26012,Carmel Heights Building,Patient Education,1,1,1
+26012,FL - Jacksonville - Offsite,HIM Coding Documentation,1,34,1
+26012,FL - Pensacola - Offsite,HIM Coding Documentation,1,27,1
+26012,Freestanding ER?? Dept 001,Freestanding ER Dept 001,37,6,37
+26012,Freestanding ER?? Dept 002,Freestanding ER Dept 002,17,6,17
+26012,Professional Office Building,Grants Early Steps,2,1,2
+26012,SH Medical Oncology Grp Airpor,Medical Oncology Airport,2,25,2
+26012,SH Medical Oncology Grp Destin,Medical Oncology Destin,1,34,1
+26012,SHMG Ortho Rehab,Rehab Services Ambulatory 001,1,14,1
+26012,Sacred Heart Children's Hsptl,Admin Pediatric Svcs 001,5,1,5
+26012,Sacred Heart Children's Hsptl,Ambulance Ground Peds,1,34,1
+26012,Sacred Heart Children's Hsptl,Emergency Department Peds,14,6,14
+26012,Sacred Heart Children's Hsptl,Infusion Services 001,1,34,1
+26012,Sacred Heart Children's Hsptl,Mother Baby Unit 001,1,9,1
+26012,Sacred Heart Children's Hsptl,Neonatal ICU,51,11,51
+26012,Sacred Heart Children's Hsptl,Neonatal ICU Unit 002,36,11,36
+26012,Sacred Heart Children's Hsptl,Pediatric ICU Unit 001,12,11,12
+26012,Sacred Heart Children's Hsptl,Pediatric Rehab Services,4,11,4
+26012,Sacred Heart Children's Hsptl,Pediatric Rehab Svcs 002,1,11,1
+26012,Sacred Heart Children's Hsptl,Pediatric Support Svcs 001,1,10,1
+26012,Sacred Heart Children's Hsptl,Peds Acute Care,35,11,35
+26012,Sacred Heart Children's Hsptl,Peds Surgery 001,7,18,7
+26012,Sacred Heart Children's Hsptl,Respiratory Care Pediatrics,18,11,18
+26012,Sacred Heart Children's Hsptl,Surgery Recovery Room 001,8,18,8
+26012,Sacred Heart Residency,Resident Mgmt Suprt Srvcs 001,2,26,2
+26012,Sacred Hrt Hosp Pensacola,Administration,7,24,7
+26012,Sacred Hrt Hosp Pensacola,Adult ECMO 001,2,8,2
+26012,Sacred Hrt Hosp Pensacola,Anesthesiology,1,34,1
+26012,Sacred Hrt Hosp Pensacola,Auxiliary,3,34,3
+26012,Sacred Hrt Hosp Pensacola,Bariatric Surgical Unit 001,11,2,11
+26012,Sacred Hrt Hosp Pensacola,Cardiac Care,47,5,47
+26012,Sacred Hrt Hosp Pensacola,Cardiac Cath Lab,10,34,10
+26012,Sacred Hrt Hosp Pensacola,Cardiology Services Admin,4,18,4
+26012,Sacred Hrt Hosp Pensacola,Case Mgmt,17,23,17
+26012,Sacred Hrt Hosp Pensacola,Computerized Tomography CT,8,21,8
+26012,Sacred Hrt Hosp Pensacola,Diagnostic Radiology,6,21,6
+26012,Sacred Hrt Hosp Pensacola,EEG,2,1,2
+26012,Sacred Hrt Hosp Pensacola,Electrocardiography EKG,21,21,21
+26012,Sacred Hrt Hosp Pensacola,Emergency Department,71,6,71
+26012,Sacred Hrt Hosp Pensacola,Endoscopy GI Lab Gastro,7,17,7
+26012,Sacred Hrt Hosp Pensacola,Float Staffing 001,41,1,41
+26012,Sacred Hrt Hosp Pensacola,Float Staffing 002,5,11,5
+26012,Sacred Hrt Hosp Pensacola,Freestanding ER Dept 001,1,6,1
+26012,Sacred Hrt Hosp Pensacola,HIM Coding Documentation,4,34,4
+26012,Sacred Hrt Hosp Pensacola,Imaging Administration,5,21,5
+26012,Sacred Hrt Hosp Pensacola,Infection Control,5,28,5
+26012,Sacred Hrt Hosp Pensacola,Infusion Ambulatory 001,5,34,5
+26012,Sacred Hrt Hosp Pensacola,Intensive Care Unit,26,8,26
+26012,Sacred Hrt Hosp Pensacola,Interventional Radiology,9,34,9
+26012,Sacred Hrt Hosp Pensacola,Labor and Delivery,26,9,26
+26012,Sacred Hrt Hosp Pensacola,Magnetic Resonance Imaging MRI,7,21,7
+26012,Sacred Hrt Hosp Pensacola,Materials Management,7,34,7
+26012,Sacred Hrt Hosp Pensacola,Monitor Room 001,10,15,10
+26012,Sacred Hrt Hosp Pensacola,Mother Baby Unit 001,23,9,23
+26012,Sacred Hrt Hosp Pensacola,Neonatal ICU,1,11,1
+26012,Sacred Hrt Hosp Pensacola,Neonatal ICU Unit 002,3,11,3
+26012,Sacred Hrt Hosp Pensacola,Neuro Science Unit,32,2,32
+26012,Sacred Hrt Hosp Pensacola,Neuro Support Svcs 001,2,1,2
+26012,Sacred Hrt Hosp Pensacola,Neuro Trauma ICU 001,38,8,38
+26012,Sacred Hrt Hosp Pensacola,Nuclear Medicine 001,1,21,1
+26012,Sacred Hrt Hosp Pensacola,Nurse Staffing 001,7,1,7
+26012,Sacred Hrt Hosp Pensacola,Nursing Administration,6,24,6
+26012,Sacred Hrt Hosp Pensacola,Nursing Unit 001,32,2,32
+26012,Sacred Hrt Hosp Pensacola,Nursing Unit 002,21,2,21
+26012,Sacred Hrt Hosp Pensacola,OB High Risk Unit 001,24,9,24
+26012,Sacred Hrt Hosp Pensacola,Observation,11,6,11
+26012,Sacred Hrt Hosp Pensacola,Observation Unit 002,40,6,40
+26012,Sacred Hrt Hosp Pensacola,Observation Unit 003,8,6,8
+26012,Sacred Hrt Hosp Pensacola,Oncology Unit 001,38,10,38
+26012,Sacred Hrt Hosp Pensacola,Orthopedics Unit 001,19,4,19
+26012,Sacred Hrt Hosp Pensacola,Ostomy 001,4,1,4
+26012,Sacred Hrt Hosp Pensacola,Pastoral Care Spiritual Care,2,34,2
+26012,Sacred Hrt Hosp Pensacola,Pat Ed Womens and Childrens,4,1,4
+26012,Sacred Hrt Hosp Pensacola,Pediatric Support Svcs 001,1,4,1
+26012,Sacred Hrt Hosp Pensacola,Physical Therapy,28,1,28
+26012,Sacred Hrt Hosp Pensacola,Pre Surgery,10,18,10
+26012,Sacred Hrt Hosp Pensacola,Recovery Room,20,18,20
+26012,Sacred Hrt Hosp Pensacola,Rehab Administration 001,2,24,2
+26012,Sacred Hrt Hosp Pensacola,Respiratory Care 001,24,1,24
+26012,Sacred Hrt Hosp Pensacola,Stepdown Intermediate Care,26,34,26
+26012,Sacred Hrt Hosp Pensacola,Stepdown Intermediate Care 002,38,5,38
+26012,Sacred Hrt Hosp Pensacola,Sterile Processing 001,16,34,16
+26012,Sacred Hrt Hosp Pensacola,Surgery,49,18,49
+26012,Sacred Hrt Hosp Pensacola,Surgery Ambulatory 001,5,18,5
+26012,Sacred Hrt Hosp Pensacola,Surgical Services Admin 001,2,34,2
+26012,Sacred Hrt Hosp Pensacola,Total Quality Management,7,28,7
+26012,Sacred Hrt Hosp Pensacola,Trauma Services Surgery,3,34,3
+26012,Sacred Hrt Hosp Pensacola,Ultrasound,7,21,7
+26012,Sacred Hrt Hosp Pensacola,Ultrasound 003,10,21,10
+26012,Sacred Hrt Hosp Pensacola,Utilization Mgmt 001,2,34,2
+26012,Sacred Hrt Hosp Pensacola,Vascular Access,1,1,1
+26012,UF OB Residency,Residency OBGYN,1,34,1
+26013,SHH Gulf,Administration,5,1,5
+26013,SHH Gulf,Auxiliary,1,1,1
+26013,SHH Gulf,Computerized Tomography CT,1,21,1
+26013,SHH Gulf,Diagnostic Radiology,2,21,2
+26013,SHH Gulf,Electrocardiography EKG,1,21,1
+26013,SHH Gulf,Emergency Department,11,6,11
+26013,SHH Gulf,Materials Management,1,34,1
+26013,SHH Gulf,Med Surg Unit,8,2,8
+26013,SHH Gulf,Nuclear Medicine 001,1,21,1
+26013,SHH Gulf,Recovery Room,2,18,2
+26013,SHH Gulf,Rehab Services General OP 001,2,14,2
+26013,SHH Gulf,Respiratory Care 001,8,1,8
+26013,SHH Gulf,Surgery,3,18,3
+26013,SHH Gulf,Ultrasound,1,21,1
+26016,FL - Santa Rosa Beach-Offsite,Other Pat Services Anc 001,1,34,1
+26016,SHH Emerald Coast,Administration,4,24,4
+26016,SHH Emerald Coast,Anesthesiology,1,16,1
+26016,SHH Emerald Coast,Auxiliary,1,34,1
+26016,SHH Emerald Coast,Cardiac Cath Lab,9,34,9
+26016,SHH Emerald Coast,Cardiac Holding Recovery 001,6,5,6
+26016,SHH Emerald Coast,Cardiology Services Admin 001,2,34,2
+26016,SHH Emerald Coast,Case Mgmt,4,23,4
+26016,SHH Emerald Coast,Computerized Tomography CT,6,21,6
+26016,SHH Emerald Coast,Diagnostic Radiology,10,21,10
+26016,SHH Emerald Coast,Electrocardiography EKG,2,34,2
+26016,SHH Emerald Coast,Emergency Department,27,6,27
+26016,SHH Emerald Coast,Float Staffing 001,25,1,25
+26016,SHH Emerald Coast,Imaging Admin 001,3,21,3
+26016,SHH Emerald Coast,Intensive Care Unit,53,8,53
+26016,SHH Emerald Coast,Labor and Delivery 001,34,9,34
+26016,SHH Emerald Coast,Magnetic Resonance Imaging MRI,2,21,2
+26016,SHH Emerald Coast,Mammography 001,5,21,5
+26016,SHH Emerald Coast,Materials Management,6,34,6
+26016,SHH Emerald Coast,Med Surg Unit,33,2,33
+26016,SHH Emerald Coast,Monitor Room 001,1,15,1
+26016,SHH Emerald Coast,Mother Baby Unit 001,15,9,15
+26016,SHH Emerald Coast,Neonatal ICU Unit 001,18,11,18
+26016,SHH Emerald Coast,Nuclear Medicine 001,1,21,1
+26016,SHH Emerald Coast,Nursing Administration,5,24,5
+26016,SHH Emerald Coast,Observation Unit 001,7,6,7
+26016,SHH Emerald Coast,Other Pat Services Anc 001,4,34,4
+26016,SHH Emerald Coast,Pastoral Care Spiritual Care,2,1,2
+26016,SHH Emerald Coast,Patient Access Admitting 002,5,9,5
+26016,SHH Emerald Coast,Patient Education,1,34,1
+26016,SHH Emerald Coast,Patient Education 002,2,9,2
+26016,SHH Emerald Coast,Physical Therapy,6,1,6
+26016,SHH Emerald Coast,PositronEmissionTomography PET,1,21,1
+26016,SHH Emerald Coast,Pre Surgery,12,18,12
+26016,SHH Emerald Coast,Recovery Room,24,18,24
+26016,SHH Emerald Coast,Rehab Administration 001,1,14,1
+26016,SHH Emerald Coast,Rehab Services Ambulatory 001,1,1,1
+26016,SHH Emerald Coast,Respiratory Care 001,8,1,8
+26016,SHH Emerald Coast,Sterile Processing 001,5,18,5
+26016,SHH Emerald Coast,Surgery,40,18,40
+26016,SHH Emerald Coast,Surgical Services Admin 001,5,18,5
+26016,SHH Emerald Coast,Total Quality Management,5,28,5
+26016,SHH Emerald Coast,Ultrasound,11,21,11
+26016,SHH Emerald Coast,Wound Care 001,1,1,1
+26016,SHH PanamaCty BayMedical,Infection Control,1,1,1
+26016,Sacred Hrt Hosp Pensacola,HIM Coding Documentation 001,1,1,1
+26042,Bay Beachside,Freestanding ER Dept 001,1,6,1
+26042,SHH PanamaCty BayMedical,Administration 142,4,24,4
+26042,SHH PanamaCty BayMedical,Anesthesiology 001,1,18,1
+26042,SHH PanamaCty BayMedical,Cardiac Holding Recovery 001,6,34,6
+26042,SHH PanamaCty BayMedical,Cardiology Services Admin 001,3,34,3
+26042,SHH PanamaCty BayMedical,Cardiovascular Unit 001,29,5,29
+26042,SHH PanamaCty BayMedical,Case Mgmt,6,23,6
+26042,SHH PanamaCty BayMedical,Central Telemetry Monitor 001,7,34,7
+26042,SHH PanamaCty BayMedical,Computerized Tomography CT 001,7,21,7
+26042,SHH PanamaCty BayMedical,Diagnostic Cardiology Anc 001,2,34,2
+26042,SHH PanamaCty BayMedical,Diagnostic Radiology 001,8,21,8
+26042,SHH PanamaCty BayMedical,Emergency Department 001,43,6,43
+26042,SHH PanamaCty BayMedical,Emergency Services Admin 001,1,6,1
+26042,SHH PanamaCty BayMedical,Employee Education 001,1,34,1
+26042,SHH PanamaCty BayMedical,Float Staffing 001,2,1,2
+26042,SHH PanamaCty BayMedical,Freestanding ER Dept 001,15,6,15
+26042,SHH PanamaCty BayMedical,General Lab Anc 001,1,19,1
+26042,SHH PanamaCty BayMedical,General Radiology Amb 001,2,6,2
+26042,SHH PanamaCty BayMedical,General Radiology Amb 002,1,21,1
+26042,SHH PanamaCty BayMedical,HIM Coding Documentation 001,2,27,2
+26042,SHH PanamaCty BayMedical,Imaging Admin 001,2,34,2
+26042,SHH PanamaCty BayMedical,Infection Control 001,3,28,3
+26042,SHH PanamaCty BayMedical,Intensive Care Unit 001,40,8,40
+26042,SHH PanamaCty BayMedical,Invasive Cardiology Anc 001,15,34,15
+26042,SHH PanamaCty BayMedical,Magnetic Resonance Imaging 001,3,21,3
+26042,SHH PanamaCty BayMedical,Materials Management 001,5,34,5
+26042,SHH PanamaCty BayMedical,Nurse Education 002,1,6,1
+26042,SHH PanamaCty BayMedical,Nursing Administration 001,4,1,4
+26042,SHH PanamaCty BayMedical,Observation Unit 007,14,6,14
+26042,SHH PanamaCty BayMedical,Ortho Neuro Nrsng Unit 001,46,2,46
+26042,SHH PanamaCty BayMedical,Pastoral Spiritual Care 001,4,1,4
+26042,SHH PanamaCty BayMedical,Perioperative Care Anc 001,3,18,3
+26042,SHH PanamaCty BayMedical,Physical Therapy 001,7,1,7
+26042,SHH PanamaCty BayMedical,PreSurgery 001,2,18,2
+26042,SHH PanamaCty BayMedical,Recovery Room,6,18,6
+26042,SHH PanamaCty BayMedical,Rehab Administration 001,1,1,1
+26042,SHH PanamaCty BayMedical,Rehab Services PC,2,14,2
+26042,SHH PanamaCty BayMedical,Respiratory Care 001,10,22,10
+26042,SHH PanamaCty BayMedical,Stepdown Intermediate Care 001,20,8,20
+26042,SHH PanamaCty BayMedical,Sterile Processing 001,7,34,7
+26042,SHH PanamaCty BayMedical,Surgery 001,43,18,43
+26042,SHH PanamaCty BayMedical,Surgical Services Admin 001,3,18,3
+26042,SHH PanamaCty BayMedical,Total Quality Management 001,7,28,7
+26042,SHH PanamaCty BayMedical,Trauma Services 001,5,1,5
+26042,SHH PanamaCty BayMedical,Ultrasound 001,1,21,1
+26042,SHH PanamaCty BayMedical,Volunteer Services 001,1,34,1
+52005,ASV Southside Hospital,Acute Rehab Unit 001,17,14,17
+52005,ASV Southside Hospital,Administration 005,2,1,2
+52005,ASV Southside Hospital,Bariatric Surgical Unit 001,7,2,7
+52005,ASV Southside Hospital,Breast Health Services 001,2,21,2
+52005,ASV Southside Hospital,Cardiac Cath Labs Anc 001,8,5,8
+52005,ASV Southside Hospital,Cardiac Holding Recovery 001,6,5,6
+52005,ASV Southside Hospital,Cardiovascular Unit 001,5,5,5
+52005,ASV Southside Hospital,Case Mgmt,11,23,11
+52005,ASV Southside Hospital,Computerized Tomography CT 001,1,21,1
+52005,ASV Southside Hospital,Critical Care Unit 001,27,8,27
+52005,ASV Southside Hospital,Diagnostic Cardiology Anc 002,3,5,3
+52005,ASV Southside Hospital,Diagnostic Radiology 001,1,18,1
+52005,ASV Southside Hospital,Dietary 001,1,30,1
+52005,ASV Southside Hospital,Emergency Department 001,37,6,37
+52005,ASV Southside Hospital,Endoscopy GI 001,10,17,10
+52005,ASV Southside Hospital,Float Staffing 001,49,1,49
+52005,ASV Southside Hospital,Imaging Admin 001,1,21,1
+52005,ASV Southside Hospital,Interventional Radiology 001,2,21,2
+52005,ASV Southside Hospital,LDRPN Unit 001,43,9,43
+52005,ASV Southside Hospital,Lactation Center 001,3,9,3
+52005,ASV Southside Hospital,Magnetic Resonance Imaging 001,1,21,1
+52005,ASV Southside Hospital,Materials Management 001,3,3,3
+52005,ASV Southside Hospital,Neonatal ICU Unit 001,16,11,16
+52005,ASV Southside Hospital,Neurodiagnostic Lab 001,1,1,1
+52005,ASV Southside Hospital,Nursing Administration 001,5,24,5
+52005,ASV Southside Hospital,OB Triage 001,2,9,2
+52005,ASV Southside Hospital,Occupational Therapy 001,7,1,7
+52005,ASV Southside Hospital,Orthopedics Unit 002,7,4,7
+52005,ASV Southside Hospital,Othr Specialty Nrsng Unit 006,8,2,8
+52005,ASV Southside Hospital,Pastoral Spiritual Care 001,1,1,1
+52005,ASV Southside Hospital,Patient Transportation 001,1,34,1
+52005,ASV Southside Hospital,Pharmacy Services General 001,1,6,1
+52005,ASV Southside Hospital,Physical Therapy 001,11,1,11
+52005,ASV Southside Hospital,PreSurgery 001,8,18,8
+52005,ASV Southside Hospital,Rapid Deployment Team 001,5,8,5
+52005,ASV Southside Hospital,Recovery Rm Amb 001,22,18,22
+52005,ASV Southside Hospital,Rehab Administration 001,2,14,2
+52005,ASV Southside Hospital,Rehab Services General 001,10,14,10
+52005,ASV Southside Hospital,Respiratory Care 001,14,1,14
+52005,ASV Southside Hospital,Revenue Cycle Mgmt 002,1,21,1
+52005,ASV Southside Hospital,Security 001,4,32,4
+52005,ASV Southside Hospital,Speech Therapy 001,5,14,5
+52005,ASV Southside Hospital,Stepdown Intermediate Care 001,12,5,12
+52005,ASV Southside Hospital,Sterile Processing 001,6,34,6
+52005,ASV Southside Hospital,Surgery 002,21,18,21
+52005,ASV Southside Hospital,Surgical Services Admin 001,1,34,1
+52005,ASV Southside Hospital,Telemetry Nursing Unit 002,9,2,9
+52005,ASV Southside Hospital,Ultrasound 001,1,21,1
+52005,ASV Southside Hospital,Vascular Venous Access PICC,1,1,1
+52005,ASV Southside Hospital,Volunteer Services 001,2,34,2
+52005,Freestanding ER Arlington,Freestanding ER Dept 001,22,6,22
+52005,WV - Morgantown - Offsite,Rehab Administration 001,1,14,1
+52009,ASV Riverside Hospital,Administration 005,3,24,3
+52009,ASV Riverside Hospital,Anesthesiology 003,4,16,4
+52009,ASV Riverside Hospital,Bariatric Support Svcs 001,1,34,1
+52009,ASV Riverside Hospital,Bariatric Surgical Unit 001,8,4,8
+52009,ASV Riverside Hospital,Breast Health Services 001,3,21,3
+52009,ASV Riverside Hospital,CCU,19,8,19
+52009,ASV Riverside Hospital,Cardiac Cath Labs Anc 001,7,34,7
+52009,ASV Riverside Hospital,Cardiac Critical Care Unit,7,8,7
+52009,ASV Riverside Hospital,Cardiac Holding Recovery 001,5,18,5
+52009,ASV Riverside Hospital,Cardiac Nuclear Med Amb 001,2,34,2
+52009,ASV Riverside Hospital,Cardiac Nuclear Med Amb 002,1,21,1
+52009,ASV Riverside Hospital,Cardiac Rehabilitation Anc 001,1,34,1
+52009,ASV Riverside Hospital,Cardiology Services Admin 001,2,2,2
+52009,ASV Riverside Hospital,Case Mgmt,12,23,12
+52009,ASV Riverside Hospital,College Programs 001,6,21,6
+52009,ASV Riverside Hospital,Computerized Tomography CT 001,4,21,4
+52009,ASV Riverside Hospital,Critical Care Unit 001,19,8,19
+52009,ASV Riverside Hospital,Diabetes Education,2,2,2
+52009,ASV Riverside Hospital,Diagnostic Cardiology Anc 001,1,18,1
+52009,ASV Riverside Hospital,Diagnostic Radiology 001,8,21,8
+52009,ASV Riverside Hospital,Electrophysiology Lab Anc 001,3,5,3
+52009,ASV Riverside Hospital,Emergency Department 001,38,6,38
+52009,ASV Riverside Hospital,Endoscopy GI 001,4,17,4
+52009,ASV Riverside Hospital,Float Staffing 001,8,8,8
+52009,ASV Riverside Hospital,IP Wound Care 001,1,34,1
+52009,ASV Riverside Hospital,Imaging Admin 001,1,21,1
+52009,ASV Riverside Hospital,Infusion Ambulatory 001,2,18,2
+52009,ASV Riverside Hospital,Lab Hematology Anc 001,1,19,1
+52009,ASV Riverside Hospital,Lab Outreach Amb 001,1,19,1
+52009,ASV Riverside Hospital,Lab Support Services 003,1,19,1
+52009,ASV Riverside Hospital,Magnetic Resonance Imaging 001,2,21,2
+52009,ASV Riverside Hospital,Mammography 001,1,21,1
+52009,ASV Riverside Hospital,Materials Management 001,3,34,3
+52009,ASV Riverside Hospital,Medical Surgical,26,2,26
+52009,ASV Riverside Hospital,Nursing Administration 001,2,1,2
+52009,ASV Riverside Hospital,Nursing Surgical Unit 001,10,2,10
+52009,ASV Riverside Hospital,OP Therapy,1,14,1
+52009,ASV Riverside Hospital,Observation Unit 002,9,6,9
+52009,ASV Riverside Hospital,Occupational Therapy 001,9,14,9
+52009,ASV Riverside Hospital,Pastoral Spiritual Care 001,5,1,5
+52009,ASV Riverside Hospital,Patient Transportation 001,4,33,4
+52009,ASV Riverside Hospital,Pharmacy Services General 001,5,20,5
+52009,ASV Riverside Hospital,Physical Therapy 001,18,1,18
+52009,ASV Riverside Hospital,Physician Support Services 001,1,24,1
+52009,ASV Riverside Hospital,PreSurgery 001,16,18,16
+52009,ASV Riverside Hospital,Pulmonary Diagnostics 001,1,34,1
+52009,ASV Riverside Hospital,Rapid Deployment Team 001,2,1,2
+52009,ASV Riverside Hospital,Recovery Rm Amb 001,10,18,10
+52009,ASV Riverside Hospital,Research Administration 001,4,34,4
+52009,ASV Riverside Hospital,Research Cardiology Series 001,1,34,1
+52009,ASV Riverside Hospital,Residents Pharmacy 001,1,20,1
+52009,ASV Riverside Hospital,Respiratory Care 001,17,1,17
+52009,ASV Riverside Hospital,Revenue Cycle Mgmt 002,1,34,1
+52009,ASV Riverside Hospital,SURGERY CENTER,26,18,26
+52009,ASV Riverside Hospital,Security 001,15,32,15
+52009,ASV Riverside Hospital,Speech Therapy 001,5,1,5
+52009,ASV Riverside Hospital,Stepdown Intermediate Care 001,14,5,14
+52009,ASV Riverside Hospital,Sterile Processing 001,32,34,32
+52009,ASV Riverside Hospital,Surgery 002,68,18,68
+52009,ASV Riverside Hospital,Surgical Oncology,13,10,13
+52009,ASV Riverside Hospital,Surgical Services Admin 001,3,18,3
+52009,ASV Riverside Hospital,Telemetry Unit 002,26,15,26
+52009,ASV Riverside Hospital,Telemetry Unit 003,44,5,44
+52009,ASV Riverside Hospital,Ultrasound 001,3,21,3
+52009,ASV Riverside Hospital,Vascular Venous Access PICC,1,4,1
+52009,Freestanding ER Collins,Freestanding ER Dept 001,31,6,31
+52009,Optimal Imaging - Riverside,Diagnostic Radiology Amb 002,5,21,5
+52009,SV Health Center Mandarin,Diagnostic Radiology Amb 002,1,29,1
+52009,SV Health Center St. Johns,Diagnostic Radiology Amb 002,1,21,1
+52012,ASV Clay County Hospital,2W Medical,37,2,37
+52012,ASV Clay County Hospital,Administration 005,3,24,3
+52012,ASV Clay County Hospital,Breast Health Services 001,2,21,2
+52012,ASV Clay County Hospital,Cardiac Cath Labs Anc 001,16,5,16
+52012,ASV Clay County Hospital,Cardiac Holding Recovery 001,11,5,11
+52012,ASV Clay County Hospital,Cardiac Nuclear Med Amb 001,1,21,1
+52012,ASV Clay County Hospital,Case Mgmt,15,23,15
+52012,ASV Clay County Hospital,Computerized Tomography CT 001,4,21,4
+52012,ASV Clay County Hospital,Diabetes Education,1,1,1
+52012,ASV Clay County Hospital,Diagnostic Cardiology Anc 001,5,5,5
+52012,ASV Clay County Hospital,Diagnostic Radiology 001,7,21,7
+52012,ASV Clay County Hospital,Emergency Department 001,40,6,40
+52012,ASV Clay County Hospital,Endoscopy GI 001,6,17,6
+52012,ASV Clay County Hospital,IP Wound Care 001,1,1,1
+52012,ASV Clay County Hospital,LDRPN Unit 001,45,9,45
+52012,ASV Clay County Hospital,Lactation Center 001,1,9,1
+52012,ASV Clay County Hospital,MICU,23,8,23
+52012,ASV Clay County Hospital,Magnetic Resonance Imaging 001,2,21,2
+52012,ASV Clay County Hospital,Materials Management 001,6,34,6
+52012,ASV Clay County Hospital,Neonatal ICU Unit 001,12,11,12
+52012,ASV Clay County Hospital,Nuclear Medicine 001,1,21,1
+52012,ASV Clay County Hospital,Nursing Administration,8,1,8
+52012,ASV Clay County Hospital,Nursing Unit 001,40,2,40
+52012,ASV Clay County Hospital,OB Triage 001,5,9,5
+52012,ASV Clay County Hospital,Occupational Therapy 001,6,14,6
+52012,ASV Clay County Hospital,Orthopedics Unit 001,49,2,49
+52012,ASV Clay County Hospital,Pastoral Spiritual Care 001,2,15,2
+52012,ASV Clay County Hospital,Patient Transportation 001,6,21,6
+52012,ASV Clay County Hospital,Pharmacy Services General 001,2,6,2
+52012,ASV Clay County Hospital,Physical Therapy 001,11,14,11
+52012,ASV Clay County Hospital,Physician Support Services 001,1,24,1
+52012,ASV Clay County Hospital,PreSurgery 001,5,18,5
+52012,ASV Clay County Hospital,Rapid Deployment Team 001,2,1,2
+52012,ASV Clay County Hospital,Recovery Rm Amb 001,29,18,29
+52012,ASV Clay County Hospital,Respiratory Care 001,18,1,18
+52012,ASV Clay County Hospital,Security 001,9,32,9
+52012,ASV Clay County Hospital,Speech Therapy 001,2,15,2
+52012,ASV Clay County Hospital,Stepdown Intermediate Care 001,17,8,17
+52012,ASV Clay County Hospital,Sterile Processing 001,2,4,2
+52012,ASV Clay County Hospital,Surgery 002,30,18,30
+52012,ASV Clay County Hospital,Surgical Services Admin 001,1,,0
+52012,ASV Clay County Hospital,Ultrasound 001,2,21,2
+52012,ASV Clay County Hospital,Vascular Venous Access PICC,1,6,1
+52012,ASV Clay County Hospital,Volunteer Services 001,1,24,1
+52012,Optimal Imaging - Middleburg,Diagnostic Radiology Amb 002,2,21,2
+52015,ASV St. Johns County,Administration 142,2,24,2
+52015,ASV St. Johns County,Breast Health Services 001,2,21,2
+52015,ASV St. Johns County,Case Mgmt,3,1,3
+52015,ASV St. Johns County,Computerized Tomography CT 001,7,21,7
+52015,ASV St. Johns County,Critical Care Unit 001,11,8,11
+52015,ASV St. Johns County,Diagnostic Radiology 001,8,21,8
+52015,ASV St. Johns County,Emergency Department 001,23,6,23
+52015,ASV St. Johns County,Endoscopy GI 001,6,17,6
+52015,ASV St. Johns County,Invasive Cardiology Anc 001,6,34,6
+52015,ASV St. Johns County,Magnetic Resonance Imaging 001,1,21,1
+52015,ASV St. Johns County,Materials Management 001,2,18,2
+52015,ASV St. Johns County,Nuclear Medicine 001,2,1,2
+52015,ASV St. Johns County,Nursing Administration 001,5,24,5
+52015,ASV St. Johns County,Nursing Unit 001,26,2,26
+52015,ASV St. Johns County,Nursing Unit 002,19,2,19
+52015,ASV St. Johns County,Occupational Therapy 001,1,2,1
+52015,ASV St. Johns County,Pastoral Spiritual Care 001,1,1,1
+52015,ASV St. Johns County,Patient Transportation 001,6,21,6
+52015,ASV St. Johns County,Physical Therapy 001,5,1,5
+52015,ASV St. Johns County,PreSurgery 001,4,18,4
+52015,ASV St. Johns County,Recovery Rm Amb 001,22,18,22
+52015,ASV St. Johns County,Respiratory Care 001,13,1,13
+52015,ASV St. Johns County,Security 001,3,1,3
+52015,ASV St. Johns County,Speech Therapy 001,2,1,2
+52015,ASV St. Johns County,Stepdown Intermediate Care 001,3,8,3
+52015,ASV St. Johns County,Sterile Processing 001,4,34,4
+52015,ASV St. Johns County,Surgery 001,13,18,13
+52015,ASV St. Johns County,Surgical Services Admin 001,1,4,1
+52015,ASV St. Johns County,Ultrasound 001,3,21,3
+52015,ASV St. Johns County,Vascular Venous Access PICC,1,34,1
+52015,ASV St. Johns County,Volunteer Services 001,1,34,1
