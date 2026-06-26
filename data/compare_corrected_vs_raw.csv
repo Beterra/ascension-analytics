@@ -1,0 +1,379 @@
+"ascension_code","facility","aggregation_level","aggregation_code","aggregation_name","pct_corrected","pct_raw","delta_pts","n_corrected","n_raw"
+"26012",Sacred Heart Pensacola,question,A01,"In this unit, we work together as an effective team.",87.9,87.9,0.0,1192,1192
+"26012",Sacred Heart Pensacola,question,A02,"In this unit, we have enough staff to handle the workload.",58.1,58.1,0.0,1186,1186
+"26012",Sacred Heart Pensacola,question,A03,Staff in this unit work longer hours than is best for patient care.,56.5,16.3,40.2,1136,1136
+"26012",Sacred Heart Pensacola,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,75.2,75.2,0.0,1169,1169
+"26012",Sacred Heart Pensacola,question,A05,"This unit relies too much on temporary, float, or PRN staff.",61.7,17.4,44.2,1130,1130
+"26012",Sacred Heart Pensacola,question,A06,"In this unit, staff feel like their mistakes are held against them.",61.4,14.1,47.3,1170,1170
+"26012",Sacred Heart Pensacola,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",59.6,16.3,43.3,1131,1131
+"26012",Sacred Heart Pensacola,question,A08,"During busy times, staff in this unit help each other.",89.6,89.6,0.0,1171,1171
+"26012",Sacred Heart Pensacola,question,A09,There is a problem with disrespectful behavior by those working in this unit.,68.4,14.9,53.6,1163,1163
+"26012",Sacred Heart Pensacola,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",70.3,70.3,0.0,1159,1159
+"26012",Sacred Heart Pensacola,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,55.9,21.9,34.0,1152,1152
+"26012",Sacred Heart Pensacola,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",69.8,69.8,0.0,1126,1126
+"26012",Sacred Heart Pensacola,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",63.9,10.8,53.1,1121,1121
+"26012",Sacred Heart Pensacola,question,A14,This unit lets the same patient safety problems keep happening.,71.6,9.4,62.2,1129,1129
+"26012",Sacred Heart Pensacola,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",81.2,81.2,0.0,1157,1157
+"26012",Sacred Heart Pensacola,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",80.2,7.7,72.5,1158,1158
+"26012",Sacred Heart Pensacola,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",84.2,84.2,0.0,1152,1152
+"26012",Sacred Heart Pensacola,question,C01,We are informed about errors that happen in this unit.,74.7,74.7,0.0,1115,1115
+"26012",Sacred Heart Pensacola,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",77.9,77.9,0.0,1113,1113
+"26012",Sacred Heart Pensacola,question,C03,"In this unit, we are informed about changes that are made based on event reports.",75.2,75.2,0.0,1091,1091
+"26012",Sacred Heart Pensacola,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",84.9,84.9,0.0,1118,1118
+"26012",Sacred Heart Pensacola,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",74.7,74.7,0.0,980,980
+"26012",Sacred Heart Pensacola,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",74.3,74.3,0.0,1054,1054
+"26012",Sacred Heart Pensacola,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",68.9,10.6,58.2,1092,1092
+"26012",Sacred Heart Pensacola,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",74.1,74.1,0.0,857,857
+"26012",Sacred Heart Pensacola,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",86.8,86.8,0.0,872,872
+"26012",Sacred Heart Pensacola,question,F01,The actions of hospital management show that patient safety is a top priority.,67.7,67.7,0.0,1119,1119
+"26012",Sacred Heart Pensacola,question,F02,Hospital management provides adequate resources to improve patient safety.,63.7,63.7,0.0,1120,1120
+"26012",Sacred Heart Pensacola,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,32.6,39.9,-7.3,1104,1104
+"26012",Sacred Heart Pensacola,question,F04,"When transferring patients from one unit to another, important information is often left out.",49.1,27.1,22.0,974,974
+"26012",Sacred Heart Pensacola,question,F05,"During shift changes, important patient care information is often left out.",59.2,17.1,42.1,963,963
+"26012",Sacred Heart Pensacola,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",74.3,74.3,0.0,964,964
+"26012",Sacred Heart Pensacola,composite,CO,Communication Openness,75.7,61.1,14.6,1118,1118
+"26012",Sacred Heart Pensacola,composite,FCE,Communication About Error,75.9,75.9,0.0,1115,1115
+"26012",Sacred Heart Pensacola,composite,HT,Handoffs and Information Exchange,60.8,39.5,21.3,974,974
+"26012",Sacred Heart Pensacola,composite,MSPS,Hospital Management Support for Patient Safety,54.7,57.1,-2.4,1120,1120
+"26012",Sacred Heart Pensacola,composite,NPRE,Response to Error,63.8,27.9,35.9,1170,1170
+"26012",Sacred Heart Pensacola,composite,OL,Organizational Learning - Continuous Improvement,72.2,51.5,20.7,1169,1169
+"26012",Sacred Heart Pensacola,composite,RPSE,Reporting Patient Safety Events,80.5,80.5,0.0,872,872
+"26012",Sacred Heart Pensacola,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",81.9,57.7,24.2,1158,1158
+"26012",Sacred Heart Pensacola,composite,Staffing,Staffing and Work Pace,58.0,28.4,29.6,1186,1186
+"26012",Sacred Heart Pensacola,composite,TW,Teamwork,82.0,64.1,17.9,1192,1192
+"26013",Sacred Heart Gulf,question,A01,"In this unit, we work together as an effective team.",95.8,95.8,0.0,48,48
+"26013",Sacred Heart Gulf,question,A02,"In this unit, we have enough staff to handle the workload.",72.9,72.9,0.0,48,48
+"26013",Sacred Heart Gulf,question,A03,Staff in this unit work longer hours than is best for patient care.,77.1,6.3,70.8,48,48
+"26013",Sacred Heart Gulf,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,74.5,74.5,0.0,47,47
+"26013",Sacred Heart Gulf,question,A05,"This unit relies too much on temporary, float, or PRN staff.",71.7,6.5,65.2,46,46
+"26013",Sacred Heart Gulf,question,A06,"In this unit, staff feel like their mistakes are held against them.",74.5,6.4,68.1,47,47
+"26013",Sacred Heart Gulf,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",71.7,6.5,65.2,46,46
+"26013",Sacred Heart Gulf,question,A08,"During busy times, staff in this unit help each other.",95.7,95.7,0.0,47,47
+"26013",Sacred Heart Gulf,question,A09,There is a problem with disrespectful behavior by those working in this unit.,85.1,4.3,80.9,47,47
+"26013",Sacred Heart Gulf,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",76.1,76.1,0.0,46,46
+"26013",Sacred Heart Gulf,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,85.1,2.1,83.0,47,47
+"26013",Sacred Heart Gulf,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",71.7,71.7,0.0,46,46
+"26013",Sacred Heart Gulf,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",80.0,0.0,80.0,45,45
+"26013",Sacred Heart Gulf,question,A14,This unit lets the same patient safety problems keep happening.,80.9,4.3,76.6,47,47
+"26013",Sacred Heart Gulf,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",87.0,87.0,0.0,46,46
+"26013",Sacred Heart Gulf,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",87.2,4.3,83.0,47,47
+"26013",Sacred Heart Gulf,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",86.7,86.7,0.0,45,45
+"26013",Sacred Heart Gulf,question,C01,We are informed about errors that happen in this unit.,80.9,80.9,0.0,47,47
+"26013",Sacred Heart Gulf,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",80.9,80.9,0.0,47,47
+"26013",Sacred Heart Gulf,question,C03,"In this unit, we are informed about changes that are made based on event reports.",71.1,71.1,0.0,45,45
+"26013",Sacred Heart Gulf,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",93.6,93.6,0.0,47,47
+"26013",Sacred Heart Gulf,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",87.5,87.5,0.0,40,40
+"26013",Sacred Heart Gulf,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",82.2,82.2,0.0,45,45
+"26013",Sacred Heart Gulf,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",91.5,2.1,89.4,47,47
+"26013",Sacred Heart Gulf,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",78.0,78.0,0.0,41,41
+"26013",Sacred Heart Gulf,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",97.5,97.5,0.0,40,40
+"26013",Sacred Heart Gulf,question,F01,The actions of hospital management show that patient safety is a top priority.,87.2,87.2,0.0,47,47
+"26013",Sacred Heart Gulf,question,F02,Hospital management provides adequate resources to improve patient safety.,89.4,89.4,0.0,47,47
+"26013",Sacred Heart Gulf,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,63.8,19.1,44.7,47,47
+"26013",Sacred Heart Gulf,question,F04,"When transferring patients from one unit to another, important information is often left out.",81.4,7.0,74.4,43,43
+"26013",Sacred Heart Gulf,question,F05,"During shift changes, important patient care information is often left out.",89.2,2.7,86.5,37,37
+"26013",Sacred Heart Gulf,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",86.5,86.5,0.0,37,37
+"26013",Sacred Heart Gulf,composite,CO,Communication Openness,88.7,66.4,22.3,47,47
+"26013",Sacred Heart Gulf,composite,FCE,Communication About Error,77.6,77.6,0.0,47,47
+"26013",Sacred Heart Gulf,composite,HT,Handoffs and Information Exchange,85.7,32.1,53.6,43,43
+"26013",Sacred Heart Gulf,composite,MSPS,Hospital Management Support for Patient Safety,80.1,65.2,14.9,47,47
+"26013",Sacred Heart Gulf,composite,NPRE,Response to Error,75.6,22.2,53.3,47,47
+"26013",Sacred Heart Gulf,composite,OL,Organizational Learning - Continuous Improvement,75.7,50.2,25.5,47,47
+"26013",Sacred Heart Gulf,composite,RPSE,Reporting Patient Safety Events,87.8,87.8,0.0,41,41
+"26013",Sacred Heart Gulf,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",87.0,59.3,27.7,47,47
+"26013",Sacred Heart Gulf,composite,Staffing,Staffing and Work Pace,76.7,22.0,54.8,48,48
+"26013",Sacred Heart Gulf,composite,TW,Teamwork,92.2,65.3,27.0,48,48
+"26016",Sacred Heart Emerald Coast,question,A01,"In this unit, we work together as an effective team.",94.4,94.4,0.0,410,410
+"26016",Sacred Heart Emerald Coast,question,A02,"In this unit, we have enough staff to handle the workload.",56.5,56.5,0.0,409,409
+"26016",Sacred Heart Emerald Coast,question,A03,Staff in this unit work longer hours than is best for patient care.,53.4,18.1,35.3,397,397
+"26016",Sacred Heart Emerald Coast,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,74.3,74.3,0.0,401,401
+"26016",Sacred Heart Emerald Coast,question,A05,"This unit relies too much on temporary, float, or PRN staff.",58.4,21.6,36.8,399,399
+"26016",Sacred Heart Emerald Coast,question,A06,"In this unit, staff feel like their mistakes are held against them.",64.5,12.5,52.0,400,400
+"26016",Sacred Heart Emerald Coast,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",63.2,16.0,47.2,394,394
+"26016",Sacred Heart Emerald Coast,question,A08,"During busy times, staff in this unit help each other.",93.1,93.1,0.0,407,407
+"26016",Sacred Heart Emerald Coast,question,A09,There is a problem with disrespectful behavior by those working in this unit.,78.3,8.1,70.1,405,405
+"26016",Sacred Heart Emerald Coast,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",72.5,72.5,0.0,400,400
+"26016",Sacred Heart Emerald Coast,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,55.9,20.2,35.8,397,397
+"26016",Sacred Heart Emerald Coast,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",69.3,69.3,0.0,388,388
+"26016",Sacred Heart Emerald Coast,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",65.1,9.5,55.6,378,378
+"26016",Sacred Heart Emerald Coast,question,A14,This unit lets the same patient safety problems keep happening.,70.3,12.0,58.3,384,384
+"26016",Sacred Heart Emerald Coast,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",82.5,82.5,0.0,401,401
+"26016",Sacred Heart Emerald Coast,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",82.3,6.0,76.3,400,400
+"26016",Sacred Heart Emerald Coast,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",84.3,84.3,0.0,401,401
+"26016",Sacred Heart Emerald Coast,question,C01,We are informed about errors that happen in this unit.,73.8,73.8,0.0,386,386
+"26016",Sacred Heart Emerald Coast,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",77.6,77.6,0.0,388,388
+"26016",Sacred Heart Emerald Coast,question,C03,"In this unit, we are informed about changes that are made based on event reports.",69.5,69.5,0.0,370,370
+"26016",Sacred Heart Emerald Coast,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",88.5,88.5,0.0,392,392
+"26016",Sacred Heart Emerald Coast,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",78.1,78.1,0.0,342,342
+"26016",Sacred Heart Emerald Coast,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",76.3,76.3,0.0,372,372
+"26016",Sacred Heart Emerald Coast,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",73.0,6.5,66.5,382,382
+"26016",Sacred Heart Emerald Coast,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",73.7,73.7,0.0,312,312
+"26016",Sacred Heart Emerald Coast,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",87.1,87.1,0.0,318,318
+"26016",Sacred Heart Emerald Coast,question,F01,The actions of hospital management show that patient safety is a top priority.,68.0,68.0,0.0,397,397
+"26016",Sacred Heart Emerald Coast,question,F02,Hospital management provides adequate resources to improve patient safety.,64.2,64.2,0.0,391,391
+"26016",Sacred Heart Emerald Coast,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,41.3,38.4,2.9,385,385
+"26016",Sacred Heart Emerald Coast,question,F04,"When transferring patients from one unit to another, important information is often left out.",60.9,19.4,41.5,335,335
+"26016",Sacred Heart Emerald Coast,question,F05,"During shift changes, important patient care information is often left out.",75.5,10.7,64.9,319,319
+"26016",Sacred Heart Emerald Coast,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",76.2,76.2,0.0,324,324
+"26016",Sacred Heart Emerald Coast,composite,CO,Communication Openness,79.0,62.4,16.6,392,392
+"26016",Sacred Heart Emerald Coast,composite,FCE,Communication About Error,73.6,73.6,0.0,388,388
+"26016",Sacred Heart Emerald Coast,composite,HT,Handoffs and Information Exchange,70.9,35.4,35.5,335,335
+"26016",Sacred Heart Emerald Coast,composite,MSPS,Hospital Management Support for Patient Safety,57.8,56.9,1.0,397,397
+"26016",Sacred Heart Emerald Coast,composite,NPRE,Response to Error,66.3,27.6,38.7,400,400
+"26016",Sacred Heart Emerald Coast,composite,OL,Organizational Learning - Continuous Improvement,71.3,51.9,19.4,401,401
+"26016",Sacred Heart Emerald Coast,composite,RPSE,Reporting Patient Safety Events,80.4,80.4,0.0,318,318
+"26016",Sacred Heart Emerald Coast,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",83.0,57.6,25.4,401,401
+"26016",Sacred Heart Emerald Coast,composite,Staffing,Staffing and Work Pace,56.0,29.1,27.0,409,409
+"26016",Sacred Heart Emerald Coast,composite,TW,Teamwork,88.6,65.2,23.4,410,410
+"26042",Sacred Heart Bay,question,A01,"In this unit, we work together as an effective team.",86.8,86.8,0.0,394,394
+"26042",Sacred Heart Bay,question,A02,"In this unit, we have enough staff to handle the workload.",27.3,27.3,0.0,392,392
+"26042",Sacred Heart Bay,question,A03,Staff in this unit work longer hours than is best for patient care.,31.3,32.9,-1.6,380,380
+"26042",Sacred Heart Bay,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,58.6,58.6,0.0,384,384
+"26042",Sacred Heart Bay,question,A05,"This unit relies too much on temporary, float, or PRN staff.",53.1,24.8,28.3,367,367
+"26042",Sacred Heart Bay,question,A06,"In this unit, staff feel like their mistakes are held against them.",53.2,18.8,34.4,378,378
+"26042",Sacred Heart Bay,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",48.2,21.0,27.2,371,371
+"26042",Sacred Heart Bay,question,A08,"During busy times, staff in this unit help each other.",86.0,86.0,0.0,386,386
+"26042",Sacred Heart Bay,question,A09,There is a problem with disrespectful behavior by those working in this unit.,58.3,20.5,37.8,386,386
+"26042",Sacred Heart Bay,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",62.1,62.1,0.0,380,380
+"26042",Sacred Heart Bay,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,36.8,37.0,-0.3,378,378
+"26042",Sacred Heart Bay,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",52.7,52.7,0.0,368,368
+"26042",Sacred Heart Bay,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",44.0,21.2,22.8,359,359
+"26042",Sacred Heart Bay,question,A14,This unit lets the same patient safety problems keep happening.,50.8,23.9,26.9,376,376
+"26042",Sacred Heart Bay,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",71.3,71.3,0.0,380,380
+"26042",Sacred Heart Bay,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",67.3,13.2,54.1,379,379
+"26042",Sacred Heart Bay,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",75.5,75.5,0.0,379,379
+"26042",Sacred Heart Bay,question,C01,We are informed about errors that happen in this unit.,65.9,65.9,0.0,367,367
+"26042",Sacred Heart Bay,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",66.4,66.4,0.0,366,366
+"26042",Sacred Heart Bay,question,C03,"In this unit, we are informed about changes that are made based on event reports.",58.6,58.6,0.0,365,365
+"26042",Sacred Heart Bay,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",78.8,78.8,0.0,372,372
+"26042",Sacred Heart Bay,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",67.4,67.4,0.0,316,316
+"26042",Sacred Heart Bay,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",66.5,66.5,0.0,343,343
+"26042",Sacred Heart Bay,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",66.6,9.7,56.9,362,362
+"26042",Sacred Heart Bay,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",70.1,70.1,0.0,288,288
+"26042",Sacred Heart Bay,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",82.9,82.9,0.0,298,298
+"26042",Sacred Heart Bay,question,F01,The actions of hospital management show that patient safety is a top priority.,49.2,49.2,0.0,374,374
+"26042",Sacred Heart Bay,question,F02,Hospital management provides adequate resources to improve patient safety.,40.8,40.8,0.0,377,377
+"26042",Sacred Heart Bay,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,29.2,45.2,-16.1,367,367
+"26042",Sacred Heart Bay,question,F04,"When transferring patients from one unit to another, important information is often left out.",38.7,34.7,3.9,331,331
+"26042",Sacred Heart Bay,question,F05,"During shift changes, important patient care information is often left out.",47.2,25.2,22.0,322,322
+"26042",Sacred Heart Bay,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",56.1,56.1,0.0,326,326
+"26042",Sacred Heart Bay,composite,CO,Communication Openness,69.8,55.6,14.2,372,372
+"26042",Sacred Heart Bay,composite,FCE,Communication About Error,63.7,63.7,0.0,367,367
+"26042",Sacred Heart Bay,composite,HT,Handoffs and Information Exchange,47.3,38.7,8.7,331,331
+"26042",Sacred Heart Bay,composite,MSPS,Hospital Management Support for Patient Safety,39.7,45.1,-5.4,377,377
+"26042",Sacred Heart Bay,composite,NPRE,Response to Error,51.9,30.8,21.1,380,380
+"26042",Sacred Heart Bay,composite,OL,Organizational Learning - Continuous Improvement,54.0,45.1,9.0,384,384
+"26042",Sacred Heart Bay,composite,RPSE,Reporting Patient Safety Events,76.5,76.5,0.0,298,298
+"26042",Sacred Heart Bay,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",71.4,53.3,18.0,380,380
+"26042",Sacred Heart Bay,composite,Staffing,Staffing and Work Pace,37.1,30.5,6.6,392,392
+"26042",Sacred Heart Bay,composite,TW,Teamwork,77.0,64.4,12.6,394,394
+"52005",St Vincent's Southside (St Luke),question,A01,"In this unit, we work together as an effective team.",88.3,88.3,0.0,437,437
+"52005",St Vincent's Southside (St Luke),question,A02,"In this unit, we have enough staff to handle the workload.",58.8,58.8,0.0,434,434
+"52005",St Vincent's Southside (St Luke),question,A03,Staff in this unit work longer hours than is best for patient care.,54.3,19.8,34.5,420,420
+"52005",St Vincent's Southside (St Luke),question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,68.9,68.9,0.0,428,428
+"52005",St Vincent's Southside (St Luke),question,A05,"This unit relies too much on temporary, float, or PRN staff.",49.2,27.3,21.8,417,417
+"52005",St Vincent's Southside (St Luke),question,A06,"In this unit, staff feel like their mistakes are held against them.",56.8,14.0,42.8,421,421
+"52005",St Vincent's Southside (St Luke),question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",55.7,14.5,41.2,413,413
+"52005",St Vincent's Southside (St Luke),question,A08,"During busy times, staff in this unit help each other.",89.6,89.6,0.0,432,432
+"52005",St Vincent's Southside (St Luke),question,A09,There is a problem with disrespectful behavior by those working in this unit.,63.8,19.0,44.8,431,431
+"52005",St Vincent's Southside (St Luke),question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",66.2,66.2,0.0,429,429
+"52005",St Vincent's Southside (St Luke),question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,59.2,19.5,39.7,431,431
+"52005",St Vincent's Southside (St Luke),question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",62.7,62.7,0.0,421,421
+"52005",St Vincent's Southside (St Luke),question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",60.3,13.3,47.0,421,421
+"52005",St Vincent's Southside (St Luke),question,A14,This unit lets the same patient safety problems keep happening.,60.2,16.4,43.8,420,420
+"52005",St Vincent's Southside (St Luke),question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",76.1,76.1,0.0,431,431
+"52005",St Vincent's Southside (St Luke),question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",75.7,8.9,66.8,428,428
+"52005",St Vincent's Southside (St Luke),question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",79.4,79.4,0.0,427,427
+"52005",St Vincent's Southside (St Luke),question,C01,We are informed about errors that happen in this unit.,69.1,69.1,0.0,411,411
+"52005",St Vincent's Southside (St Luke),question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",70.8,70.8,0.0,415,415
+"52005",St Vincent's Southside (St Luke),question,C03,"In this unit, we are informed about changes that are made based on event reports.",66.4,66.4,0.0,408,408
+"52005",St Vincent's Southside (St Luke),question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",80.8,80.8,0.0,412,412
+"52005",St Vincent's Southside (St Luke),question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",76.1,76.1,0.0,347,347
+"52005",St Vincent's Southside (St Luke),question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",71.7,71.7,0.0,378,378
+"52005",St Vincent's Southside (St Luke),question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",70.7,9.8,60.9,399,399
+"52005",St Vincent's Southside (St Luke),question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",71.4,71.4,0.0,329,329
+"52005",St Vincent's Southside (St Luke),question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",82.0,82.0,0.0,333,333
+"52005",St Vincent's Southside (St Luke),question,F01,The actions of hospital management show that patient safety is a top priority.,66.3,66.3,0.0,416,416
+"52005",St Vincent's Southside (St Luke),question,F02,Hospital management provides adequate resources to improve patient safety.,58.4,58.4,0.0,416,416
+"52005",St Vincent's Southside (St Luke),question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,33.8,43.8,-10.0,411,411
+"52005",St Vincent's Southside (St Luke),question,F04,"When transferring patients from one unit to another, important information is often left out.",55.1,18.6,36.6,350,350
+"52005",St Vincent's Southside (St Luke),question,F05,"During shift changes, important patient care information is often left out.",63.8,13.5,50.3,348,348
+"52005",St Vincent's Southside (St Luke),question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",73.2,73.2,0.0,343,343
+"52005",St Vincent's Southside (St Luke),composite,CO,Communication Openness,74.8,59.6,15.2,412,412
+"52005",St Vincent's Southside (St Luke),composite,FCE,Communication About Error,68.8,68.8,0.0,415,415
+"52005",St Vincent's Southside (St Luke),composite,HT,Handoffs and Information Exchange,64.0,35.1,29.0,350,350
+"52005",St Vincent's Southside (St Luke),composite,MSPS,Hospital Management Support for Patient Safety,52.9,56.2,-3.3,416,416
+"52005",St Vincent's Southside (St Luke),composite,NPRE,Response to Error,59.7,27.0,32.7,429,429
+"52005",St Vincent's Southside (St Luke),composite,OL,Organizational Learning - Continuous Improvement,64.0,49.4,14.6,428,428
+"52005",St Vincent's Southside (St Luke),composite,RPSE,Reporting Patient Safety Events,76.7,76.7,0.0,333,333
+"52005",St Vincent's Southside (St Luke),composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",77.1,54.8,22.3,431,431
+"52005",St Vincent's Southside (St Luke),composite,Staffing,Staffing and Work Pace,55.3,31.3,24.0,434,434
+"52005",St Vincent's Southside (St Luke),composite,TW,Teamwork,80.6,65.6,14.9,437,437
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A01,"In this unit, we work together as an effective team.",86.7,86.7,0.0,600,600
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A02,"In this unit, we have enough staff to handle the workload.",48.9,48.9,0.0,595,595
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A03,Staff in this unit work longer hours than is best for patient care.,43.6,27.1,16.5,576,576
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,69.3,69.3,0.0,587,587
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A05,"This unit relies too much on temporary, float, or PRN staff.",56.2,25.4,30.8,568,568
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A06,"In this unit, staff feel like their mistakes are held against them.",54.0,19.3,34.8,581,581
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",52.4,18.9,33.6,578,578
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A08,"During busy times, staff in this unit help each other.",84.8,84.8,0.0,591,591
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A09,There is a problem with disrespectful behavior by those working in this unit.,65.0,18.0,46.9,588,588
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",65.0,65.0,0.0,585,585
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,50.9,28.2,22.7,585,585
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",65.3,65.3,0.0,565,565
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",58.7,12.7,45.9,566,566
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,A14,This unit lets the same patient safety problems keep happening.,68.0,12.9,55.1,572,572
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",80.2,80.2,0.0,586,586
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",74.7,9.9,64.8,577,577
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",84.3,84.3,0.0,580,580
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C01,We are informed about errors that happen in this unit.,74.6,74.6,0.0,562,562
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",78.5,78.5,0.0,562,562
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C03,"In this unit, we are informed about changes that are made based on event reports.",72.2,72.2,0.0,540,540
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",82.9,82.9,0.0,560,560
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",74.9,74.9,0.0,475,475
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",75.6,75.6,0.0,529,529
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",70.9,10.4,60.5,539,539
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",76.0,76.0,0.0,433,433
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",85.9,85.9,0.0,434,434
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,F01,The actions of hospital management show that patient safety is a top priority.,65.1,65.1,0.0,561,561
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,F02,Hospital management provides adequate resources to improve patient safety.,56.7,56.7,0.0,552,552
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,35.2,43.1,-7.9,545,545
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,F04,"When transferring patients from one unit to another, important information is often left out.",48.1,27.2,21.0,453,453
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,F05,"During shift changes, important patient care information is often left out.",55.6,18.7,36.9,439,439
+"52009",St Vincent's Riverside (St Vincent Medical Center),question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",71.4,71.4,0.0,447,447
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,CO,Communication Openness,76.1,61.0,15.1,560,560
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,FCE,Communication About Error,75.1,75.1,0.0,562,562
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,HT,Handoffs and Information Exchange,58.4,39.1,19.3,453,453
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,MSPS,Hospital Management Support for Patient Safety,52.3,55.0,-2.6,561,561
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,NPRE,Response to Error,57.5,29.0,28.6,585,585
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,OL,Organizational Learning - Continuous Improvement,67.6,49.2,18.4,587,587
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,RPSE,Reporting Patient Safety Events,81.0,81.0,0.0,434,434
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",79.7,58.1,21.6,586,586
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,Staffing,Staffing and Work Pace,49.9,32.4,17.5,595,595
+"52009",St Vincent's Riverside (St Vincent Medical Center),composite,TW,Teamwork,78.8,63.2,15.6,600,600
+"52012",St Vincent's Clay County,question,A01,"In this unit, we work together as an effective team.",89.0,89.0,0.0,484,484
+"52012",St Vincent's Clay County,question,A02,"In this unit, we have enough staff to handle the workload.",46.5,46.5,0.0,480,480
+"52012",St Vincent's Clay County,question,A03,Staff in this unit work longer hours than is best for patient care.,50.9,20.6,30.3,466,466
+"52012",St Vincent's Clay County,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,72.3,72.3,0.0,473,473
+"52012",St Vincent's Clay County,question,A05,"This unit relies too much on temporary, float, or PRN staff.",54.0,20.6,33.5,472,472
+"52012",St Vincent's Clay County,question,A06,"In this unit, staff feel like their mistakes are held against them.",59.5,15.0,44.5,467,467
+"52012",St Vincent's Clay County,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",55.3,12.6,42.7,459,459
+"52012",St Vincent's Clay County,question,A08,"During busy times, staff in this unit help each other.",85.6,85.6,0.0,480,480
+"52012",St Vincent's Clay County,question,A09,There is a problem with disrespectful behavior by those working in this unit.,70.7,12.4,58.2,474,474
+"52012",St Vincent's Clay County,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",71.6,71.6,0.0,475,475
+"52012",St Vincent's Clay County,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,55.4,20.8,34.6,471,471
+"52012",St Vincent's Clay County,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",69.4,69.4,0.0,461,461
+"52012",St Vincent's Clay County,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",65.7,9.8,55.9,458,458
+"52012",St Vincent's Clay County,question,A14,This unit lets the same patient safety problems keep happening.,70.7,10.1,60.6,464,464
+"52012",St Vincent's Clay County,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",76.8,76.8,0.0,474,474
+"52012",St Vincent's Clay County,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",75.0,7.5,67.5,480,480
+"52012",St Vincent's Clay County,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",82.8,82.8,0.0,470,470
+"52012",St Vincent's Clay County,question,C01,We are informed about errors that happen in this unit.,73.0,73.0,0.0,455,455
+"52012",St Vincent's Clay County,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",77.6,77.6,0.0,459,459
+"52012",St Vincent's Clay County,question,C03,"In this unit, we are informed about changes that are made based on event reports.",72.9,72.9,0.0,450,450
+"52012",St Vincent's Clay County,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",83.9,83.9,0.0,465,465
+"52012",St Vincent's Clay County,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",74.9,74.9,0.0,398,398
+"52012",St Vincent's Clay County,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",75.8,75.8,0.0,434,434
+"52012",St Vincent's Clay County,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",72.6,9.2,63.4,456,456
+"52012",St Vincent's Clay County,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",78.1,78.1,0.0,361,361
+"52012",St Vincent's Clay County,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",89.5,89.5,0.0,371,371
+"52012",St Vincent's Clay County,question,F01,The actions of hospital management show that patient safety is a top priority.,73.6,73.6,0.0,469,469
+"52012",St Vincent's Clay County,question,F02,Hospital management provides adequate resources to improve patient safety.,69.9,69.9,0.0,468,468
+"52012",St Vincent's Clay County,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,38.7,36.6,2.2,462,462
+"52012",St Vincent's Clay County,question,F04,"When transferring patients from one unit to another, important information is often left out.",55.1,21.2,33.9,410,410
+"52012",St Vincent's Clay County,question,F05,"During shift changes, important patient care information is often left out.",61.1,15.6,45.5,391,391
+"52012",St Vincent's Clay County,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",72.3,72.3,0.0,397,397
+"52012",St Vincent's Clay County,composite,CO,Communication Openness,76.8,60.9,15.8,465,465
+"52012",St Vincent's Clay County,composite,FCE,Communication About Error,74.5,74.5,0.0,459,459
+"52012",St Vincent's Clay County,composite,HT,Handoffs and Information Exchange,62.8,36.4,26.5,410,410
+"52012",St Vincent's Clay County,composite,MSPS,Hospital Management Support for Patient Safety,60.7,60.0,0.7,469,469
+"52012",St Vincent's Clay County,composite,NPRE,Response to Error,63.0,27.3,35.8,475,475
+"52012",St Vincent's Clay County,composite,OL,Organizational Learning - Continuous Improvement,70.8,50.6,20.2,473,473
+"52012",St Vincent's Clay County,composite,RPSE,Reporting Patient Safety Events,83.8,83.8,0.0,371,371
+"52012",St Vincent's Clay County,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",78.2,55.7,22.5,480,480
+"52012",St Vincent's Clay County,composite,Staffing,Staffing and Work Pace,51.7,27.1,24.6,480,480
+"52012",St Vincent's Clay County,composite,TW,Teamwork,81.8,62.4,19.4,484,484
+"52015",St Vincent's St John's County,question,A01,"In this unit, we work together as an effective team.",86.9,86.9,0.0,206,206
+"52015",St Vincent's St John's County,question,A02,"In this unit, we have enough staff to handle the workload.",69.9,69.9,0.0,206,206
+"52015",St Vincent's St John's County,question,A03,Staff in this unit work longer hours than is best for patient care.,58.2,15.9,42.3,201,201
+"52015",St Vincent's St John's County,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,80.4,80.4,0.0,204,204
+"52015",St Vincent's St John's County,question,A05,"This unit relies too much on temporary, float, or PRN staff.",64.0,15.5,48.5,200,200
+"52015",St Vincent's St John's County,question,A06,"In this unit, staff feel like their mistakes are held against them.",63.5,12.8,50.7,203,203
+"52015",St Vincent's St John's County,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",61.1,14.1,47.0,198,198
+"52015",St Vincent's St John's County,question,A08,"During busy times, staff in this unit help each other.",89.2,89.2,0.0,204,204
+"52015",St Vincent's St John's County,question,A09,There is a problem with disrespectful behavior by those working in this unit.,66.3,17.3,49.0,202,202
+"52015",St Vincent's St John's County,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",69.5,69.5,0.0,203,203
+"52015",St Vincent's St John's County,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,72.4,9.4,63.1,203,203
+"52015",St Vincent's St John's County,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",74.0,74.0,0.0,196,196
+"52015",St Vincent's St John's County,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",70.4,7.1,63.3,196,196
+"52015",St Vincent's St John's County,question,A14,This unit lets the same patient safety problems keep happening.,81.7,6.4,75.2,202,202
+"52015",St Vincent's St John's County,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",80.2,80.2,0.0,202,202
+"52015",St Vincent's St John's County,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",77.2,7.9,69.3,202,202
+"52015",St Vincent's St John's County,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",85.6,85.6,0.0,202,202
+"52015",St Vincent's St John's County,question,C01,We are informed about errors that happen in this unit.,82.4,82.4,0.0,193,193
+"52015",St Vincent's St John's County,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",85.0,85.0,0.0,193,193
+"52015",St Vincent's St John's County,question,C03,"In this unit, we are informed about changes that are made based on event reports.",82.4,82.4,0.0,187,187
+"52015",St Vincent's St John's County,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",85.2,85.2,0.0,196,196
+"52015",St Vincent's St John's County,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",72.7,72.7,0.0,165,165
+"52015",St Vincent's St John's County,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",78.8,78.8,0.0,184,184
+"52015",St Vincent's St John's County,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",78.9,6.8,72.1,190,190
+"52015",St Vincent's St John's County,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",77.0,77.0,0.0,148,148
+"52015",St Vincent's St John's County,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",85.8,85.8,0.0,148,148
+"52015",St Vincent's St John's County,question,F01,The actions of hospital management show that patient safety is a top priority.,79.8,79.8,0.0,198,198
+"52015",St Vincent's St John's County,question,F02,Hospital management provides adequate resources to improve patient safety.,80.7,80.7,0.0,197,197
+"52015",St Vincent's St John's County,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,48.7,29.1,19.6,189,189
+"52015",St Vincent's St John's County,question,F04,"When transferring patients from one unit to another, important information is often left out.",62.2,18.0,44.2,172,172
+"52015",St Vincent's St John's County,question,F05,"During shift changes, important patient care information is often left out.",72.2,14.8,57.4,162,162
+"52015",St Vincent's St John's County,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",81.0,81.0,0.0,163,163
+"52015",St Vincent's St John's County,composite,CO,Communication Openness,78.9,60.9,18.0,196,196
+"52015",St Vincent's St John's County,composite,FCE,Communication About Error,83.2,83.2,0.0,193,193
+"52015",St Vincent's St John's County,composite,HT,Handoffs and Information Exchange,71.8,37.9,33.9,172,172
+"52015",St Vincent's St John's County,composite,MSPS,Hospital Management Support for Patient Safety,69.7,63.2,6.5,198,198
+"52015",St Vincent's St John's County,composite,NPRE,Response to Error,66.1,25.9,40.2,203,203
+"52015",St Vincent's St John's County,composite,OL,Organizational Learning - Continuous Improvement,78.7,53.6,25.1,204,204
+"52015",St Vincent's St John's County,composite,RPSE,Reporting Patient Safety Events,81.4,81.4,0.0,148,148
+"52015",St Vincent's St John's County,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",81.0,57.9,23.1,202,202
+"52015",St Vincent's St John's County,composite,Staffing,Staffing and Work Pace,66.1,27.7,38.5,206,206
+"52015",St Vincent's St John's County,composite,TW,Teamwork,80.8,64.5,16.3,206,206
+SYSTEM,Ascension Florida,question,A01,"In this unit, we work together as an effective team.",88.5,88.5,0.0,3771,3771
+SYSTEM,Ascension Florida,question,A02,"In this unit, we have enough staff to handle the workload.",52.7,52.7,0.0,3750,3750
+SYSTEM,Ascension Florida,question,A03,Staff in this unit work longer hours than is best for patient care.,50.9,20.8,30.1,3624,3624
+SYSTEM,Ascension Florida,question,A04,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,71.6,71.6,0.0,3693,3693
+SYSTEM,Ascension Florida,question,A05,"This unit relies too much on temporary, float, or PRN staff.",57.4,21.2,36.2,3599,3599
+SYSTEM,Ascension Florida,question,A06,"In this unit, staff feel like their mistakes are held against them.",59.2,15.2,44.1,3667,3667
+SYSTEM,Ascension Florida,question,A07,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",56.9,16.2,40.7,3590,3590
+SYSTEM,Ascension Florida,question,A08,"During busy times, staff in this unit help each other.",88.4,88.4,0.0,3718,3718
+SYSTEM,Ascension Florida,question,A09,There is a problem with disrespectful behavior by those working in this unit.,67.7,15.4,52.4,3696,3696
+SYSTEM,Ascension Florida,question,A10,"When staff make errors, this unit focuses on learning rather than blaming individuals.",68.6,68.6,0.0,3677,3677
+SYSTEM,Ascension Florida,question,A11,The work pace in this unit is so rushed that it negatively affects patient safety.,54.7,22.9,31.9,3664,3664
+SYSTEM,Ascension Florida,question,A12,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",66.6,66.6,0.0,3571,3571
+SYSTEM,Ascension Florida,question,A13,"In this unit, there is a lack of support for staff involved in patient safety errors.",61.5,11.9,49.7,3544,3544
+SYSTEM,Ascension Florida,question,A14,This unit lets the same patient safety problems keep happening.,67.9,12.4,55.5,3594,3594
+SYSTEM,Ascension Florida,question,B01,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",79.0,79.0,0.0,3677,3677
+SYSTEM,Ascension Florida,question,B02,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",77.0,8.5,68.5,3671,3671
+SYSTEM,Ascension Florida,question,B03,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",82.7,82.7,0.0,3656,3656
+SYSTEM,Ascension Florida,question,C01,We are informed about errors that happen in this unit.,73.3,73.3,0.0,3536,3536
+SYSTEM,Ascension Florida,question,C02,"When errors happen in this unit, we discuss ways to prevent them from happening again.",76.3,76.3,0.0,3543,3543
+SYSTEM,Ascension Florida,question,C03,"In this unit, we are informed about changes that are made based on event reports.",71.4,71.4,0.0,3456,3456
+SYSTEM,Ascension Florida,question,C04,"In this unit, staff speak up if they see something that may negatively affect patient care.",83.9,83.9,0.0,3562,3562
+SYSTEM,Ascension Florida,question,C05,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",74.6,74.6,0.0,3063,3063
+SYSTEM,Ascension Florida,question,C06,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",74.2,74.2,0.0,3339,3339
+SYSTEM,Ascension Florida,question,C07,"In this unit, staff are afraid to ask questions when something does not seem right.",71.0,9.4,61.5,3467,3467
+SYSTEM,Ascension Florida,question,D01,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",74.4,74.4,0.0,2769,2769
+SYSTEM,Ascension Florida,question,D02,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",86.2,86.2,0.0,2814,2814
+SYSTEM,Ascension Florida,question,F01,The actions of hospital management show that patient safety is a top priority.,66.9,66.9,0.0,3581,3581
+SYSTEM,Ascension Florida,question,F02,Hospital management provides adequate resources to improve patient safety.,61.7,61.7,0.0,3568,3568
+SYSTEM,Ascension Florida,question,F03,Hospital management seems interested in patient safety only after an adverse event happens.,35.8,40.0,-4.1,3510,3510
+SYSTEM,Ascension Florida,question,F04,"When transferring patients from one unit to another, important information is often left out.",51.8,24.5,27.2,3068,3068
+SYSTEM,Ascension Florida,question,F05,"During shift changes, important patient care information is often left out.",61.0,16.6,44.4,2981,2981
+SYSTEM,Ascension Florida,question,F06,"During shift changes, there is adequate time to exchange all key patient care information.",72.2,72.2,0.0,3001,3001
+SYSTEM,Ascension Florida,composite,CO,Communication Openness,75.9,60.5,15.4,3562,3562
+SYSTEM,Ascension Florida,composite,FCE,Communication About Error,73.7,73.7,0.0,3543,3543
+SYSTEM,Ascension Florida,composite,HT,Handoffs and Information Exchange,61.7,37.8,23.9,3068,3068
+SYSTEM,Ascension Florida,composite,MSPS,Hospital Management Support for Patient Safety,54.8,56.2,-1.4,3581,3581
+SYSTEM,Ascension Florida,composite,NPRE,Response to Error,61.6,28.0,33.6,3677,3677
+SYSTEM,Ascension Florida,composite,OL,Organizational Learning - Continuous Improvement,68.7,50.2,18.5,3693,3693
+SYSTEM,Ascension Florida,composite,RPSE,Reporting Patient Safety Events,80.3,80.3,0.0,2814,2814
+SYSTEM,Ascension Florida,composite,S/ME,"Supervisor, Manager, or Clinical Leader Support for Patient Safety",79.5,56.7,22.8,3677,3677
+SYSTEM,Ascension Florida,composite,Staffing,Staffing and Work Pace,53.9,29.4,24.5,3750,3750
+SYSTEM,Ascension Florida,composite,TW,Teamwork,81.6,64.1,17.5,3771,3771

@@ -1,0 +1,43 @@
+ahca_col,ahrq_item_id,section,composite,item_text,scale_type,polarity,reverse_scored
+SP,,Background,,Staff Position,categorical,na,FALSE
+WA,,Background,,Unit/Work Area,categorical,na,FALSE
+A1,14_03,A,Teamwork,"In this unit, we work together as an effective team.",agree5,positive,FALSE
+A2,14_04,A,Staffing and Work Pace,"In this unit, we have enough staff to handle the workload.",agree5,positive,FALSE
+A3,14_05,A,Staffing and Work Pace,Staff in this unit work longer hours than is best for patient care.,agree5,negative,TRUE
+A4,14_06,A,Organizational Learning-Continuous Improvement,This unit regularly reviews work processes to determine if changes are needed to improve patient safety.,agree5,positive,FALSE
+A5,14_07,A,Staffing and Work Pace,"This unit relies too much on temporary, float, or PRN staff.",agree5,negative,TRUE
+A6,14_08,A,Response to Error,"In this unit, staff feel like their mistakes are held against them.",agree5,negative,TRUE
+A7,14_09,A,Response to Error,"When an event is reported in this unit, it feels like the person is being written up, not the problem.",agree5,negative,TRUE
+A8,15_03,A,Teamwork,"During busy times, staff in this unit help each other.",agree5,positive,FALSE
+A9,15_04,A,Teamwork,There is a problem with disrespectful behavior by those working in this unit.,agree5,negative,TRUE
+A10,15_05,A,Response to Error,"When staff make errors, this unit focuses on learning rather than blaming individuals.",agree5,positive,FALSE
+A11,15_06,A,Staffing and Work Pace,The work pace in this unit is so rushed that it negatively affects patient safety.,agree5,negative,TRUE
+A12,15_07,A,Organizational Learning-Continuous Improvement,"In this unit, changes to improve patient safety are evaluated to see how well they worked.",agree5,positive,FALSE
+A13,15_08,A,Response to Error,"In this unit, there is a lack of support for staff involved in patient safety errors.",agree5,negative,TRUE
+A14,15_09,A,Organizational Learning-Continuous Improvement,This unit lets the same patient safety problems keep happening.,agree5,negative,TRUE
+B1,16_02,B,Supervisor/Manager/Clinical Leader Support,"My supervisor, manager, or clinical leader seriously considers staff suggestions for improving patient safety.",agree5,positive,FALSE
+B2,16_03,B,Supervisor/Manager/Clinical Leader Support,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts.",agree5,negative,TRUE
+B3,16_04,B,Supervisor/Manager/Clinical Leader Support,"My supervisor, manager, or clinical leader takes action to address patient safety concerns that are brought to their attention.",agree5,positive,FALSE
+C1,17_03,C,Communication About Error,We are informed about errors that happen in this unit.,agree5,positive,FALSE
+C2,17_04,C,Communication About Error,"When errors happen in this unit, we discuss ways to prevent them from happening again.",agree5,positive,FALSE
+C3,17_05,C,Communication About Error,"In this unit, we are informed about changes that are made based on event reports.",agree5,positive,FALSE
+C4,17_06,C,Communication Openness,"In this unit, staff speak up if they see something that may negatively affect patient care.",agree5,positive,FALSE
+C5,17_07,C,Communication Openness,"When staff in this unit see someone with more authority doing something unsafe for patients, they speak up.",agree5,positive,FALSE
+C6,17_08,C,Communication Openness,"When staff in this unit speak up, those with more authority are open to their patient safety concerns.",agree5,positive,FALSE
+C7,17_09,C,Communication Openness,"In this unit, staff are afraid to ask questions when something does not seem right.",agree5,negative,TRUE
+D1,18_03,D,Reporting Patient Safety Events,"When a mistake is caught and corrected before reaching the patient, how often is this reported?",freq5,positive,FALSE
+D2,18_04,D,Reporting Patient Safety Events,"When a mistake reaches the patient and could have harmed the patient, but did not, how often is this reported?",freq5,positive,FALSE
+D3,18_05,D,(event count - not composite),"In the past 12 months, how many patient safety events have you reported?",count,na,FALSE
+E1,19_02,E,Patient Safety Rating,How would you rate your unit/work area on patient safety?,rating5,positive,FALSE
+F1,20_03,F,Hospital Management Support for Patient Safety,The actions of hospital management show that patient safety is a top priority.,agree5,positive,FALSE
+F2,20_04,F,Hospital Management Support for Patient Safety,Hospital management provides adequate resources to improve patient safety.,agree5,positive,FALSE
+F3,20_05,F,Hospital Management Support for Patient Safety,Hospital management seems interested in patient safety only after an adverse event happens.,agree5,negative,TRUE
+F4,20_06,F,Handoffs and Information Exchange,"When transferring patients from one unit to another, important information is often left out.",agree5,negative,TRUE
+F5,20_07,F,Handoffs and Information Exchange,"During shift changes, important patient care information is often left out.",agree5,negative,TRUE
+F6,20_08,F,Handoffs and Information Exchange,"During shift changes, there is adequate time to exchange all key patient care information.",agree5,positive,FALSE
+G1,21_02,Background,,How long have you worked in this hospital?,categorical,na,FALSE
+G2,21_03,Background,,"In this hospital, how long have you worked in your current unit/work area?",categorical,na,FALSE
+G3,21_04,Background,,"Typically, how many hours per week do you work in this hospital?",categorical,na,FALSE
+G4,21_05,Background,,"In your staff position, do you typically have direct interaction or contact with patients?",categorical,na,FALSE
+H1,,Background,,Overall background/rating item 1 (verify against AHCA codebook),categorical,na,FALSE
+H2,,Background,,Overall background/rating item 2 (verify against AHCA codebook),categorical,na,FALSE

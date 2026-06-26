@@ -1,0 +1,24 @@
+flowchart TD
+    HRIS["Ascension HRIS system export<br/><i>(employee/respondent roster)</i>"]
+    PX["Perceptyx (prior survey vendor)<br/>builds client mapping &amp; fields the survey"]
+    S1["STAGE 1 — RAW EXPORT<br/>Client exports raw results<br/>from the Perceptyx portal"]
+    INT["Client internal outputs<br/>Perceptyx reports, Tableau dashboards, PPTs<br/><i>(validate against reports/client/)</i>"]
+    S2["STAGE 2 — AHCA TOOL (PRE-MACRO)<br/>Client manually reformats raw data in Excel<br/>into the AHCA Hospital Survey data-entry tool<br/><i>saved before clicking the macro</i>"]
+    MACRO{{"Macro runs<br/><b>reverse-scoring flip applied here</b><br/>13 negatively-worded items: 6 − x<br/>(A3,A5,A6,A7,A9,A11,A13,A14,B2,C7,F3,F4,F5)"}}
+    S3["STAGE 3 — SUBMISSION CSV<br/>Macro exports per-facility CSVs<br/><i>(data/2024_original/3_submission)</i>"]
+    AHCA["Submit to AHCA PSCS system"]
+
+    HRIS --> PX --> S1
+    S1 --> INT
+    S1 --> S2 --> MACRO --> S3 --> AHCA
+
+    NOTE["Note: Tableau ingestion did NOT re-flip,<br/>so dashboards displayed values 'correctly' by accident,<br/>while the submitted CSVs carried the erroneous flip."]
+    INT -.-> NOTE
+    MACRO -.-> NOTE
+
+    classDef stage fill:#e8f0e8,stroke:#4a7a4a,stroke-width:2px,color:#1a1a1a;
+    classDef defect fill:#f7e6e6,stroke:#b04a4a,stroke-width:2px,color:#1a1a1a;
+    classDef note fill:#f5f3e8,stroke:#b0a04a,stroke-width:1px,color:#1a1a1a,font-style:italic;
+    class S1,S2,S3 stage;
+    class MACRO defect;
+    class NOTE note;

@@ -1,0 +1,27 @@
+item,composite,version,n,pct_1,pct_2,pct_3,pct_4,pct_5,item_text
+A3,Staffing and Work Pace,corrected,3625,12.1,38.7,28.4,14.0,6.8,Staff in this unit work longer hours than is best for patient care.
+A5,Staffing and Work Pace,corrected,3600,17.9,39.4,21.4,13.5,7.7,"This unit relies too much on temporary, float, or PRN staff."
+A6,Response to Error,corrected,3668,18.0,41.2,25.6,9.8,5.3,"In this unit, staff feel like their mistakes are held against them."
+A7,Response to Error,corrected,3591,17.1,39.8,26.9,10.7,5.5,"When an event is reported in this unit, it feels like the person is being written up, not the problem."
+A9,Teamwork,corrected,3697,24.0,43.8,16.9,10.7,4.7,There is a problem with disrespectful behavior by those working in this unit.
+A11,Staffing and Work Pace,corrected,3664,14.0,40.8,22.4,14.7,8.2,The work pace in this unit is so rushed that it negatively affects patient safety.
+A13,Response to Error,corrected,3545,16.5,45.0,26.6,8.2,3.7,"In this unit, there is a lack of support for staff involved in patient safety errors."
+A14,Organizational Learning-Continuous Improvement,corrected,3595,22.3,45.7,19.6,8.5,3.9,This unit lets the same patient safety problems keep happening.
+B2,Supervisor/Manager/Clinical Leader Support,corrected,3672,29.2,47.7,14.5,5.3,3.2,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts."
+C7,Communication Openness,corrected,3468,28.4,42.6,19.6,5.5,4.0,"In this unit, staff are afraid to ask questions when something does not seem right."
+F3,Hospital Management Support for Patient Safety,corrected,3511,9.3,26.5,24.2,27.1,12.9,Hospital management seems interested in patient safety only after an adverse event happens.
+F4,Handoffs and Information Exchange,corrected,3069,11.1,40.7,23.7,18.8,5.7,"When transferring patients from one unit to another, important information is often left out."
+F5,Handoffs and Information Exchange,corrected,2982,13.4,47.6,22.4,12.4,4.2,"During shift changes, important patient care information is often left out."
+A3,Staffing and Work Pace,submitted,3624,6.8,14.0,28.4,38.7,12.1,Staff in this unit work longer hours than is best for patient care.
+A5,Staffing and Work Pace,submitted,3599,7.7,13.5,21.4,39.5,17.9,"This unit relies too much on temporary, float, or PRN staff."
+A6,Response to Error,submitted,3667,5.3,9.8,25.6,41.2,18.0,"In this unit, staff feel like their mistakes are held against them."
+A7,Response to Error,submitted,3590,5.5,10.7,26.9,39.8,17.1,"When an event is reported in this unit, it feels like the person is being written up, not the problem."
+A9,Teamwork,submitted,3697,4.7,10.7,16.9,43.8,24.0,There is a problem with disrespectful behavior by those working in this unit.
+A11,Staffing and Work Pace,submitted,3664,8.2,14.7,22.4,40.8,14.0,The work pace in this unit is so rushed that it negatively affects patient safety.
+A13,Response to Error,submitted,3545,3.7,8.2,26.6,45.0,16.5,"In this unit, there is a lack of support for staff involved in patient safety errors."
+A14,Organizational Learning-Continuous Improvement,submitted,3595,3.9,8.5,19.6,45.7,22.3,This unit lets the same patient safety problems keep happening.
+B2,Supervisor/Manager/Clinical Leader Support,submitted,3672,3.2,5.3,14.5,47.7,29.2,"My supervisor, manager, or clinical leader wants us to work faster during busy times, even if it means taking shortcuts."
+C7,Communication Openness,submitted,3468,4.0,5.5,19.6,42.6,28.4,"In this unit, staff are afraid to ask questions when something does not seem right."
+F3,Hospital Management Support for Patient Safety,submitted,3511,12.9,27.1,24.2,26.5,9.3,Hospital management seems interested in patient safety only after an adverse event happens.
+F4,Handoffs and Information Exchange,submitted,3069,5.7,18.8,23.7,40.7,11.1,"When transferring patients from one unit to another, important information is often left out."
+F5,Handoffs and Information Exchange,submitted,2982,4.2,12.4,22.4,47.6,13.4,"During shift changes, important patient care information is often left out."
